@@ -1,0 +1,16 @@
+- install angular cli :
+
+        npm install @angular/cli -g
+
+- check angular version :
+
+        ng v
+
+- to create project without stanalone :
+
+        ng new appName --no-standalone
+
+
+- run project :
+
+         ng serve
